@@ -6,4 +6,4 @@ I'm Gaurav and I earn from programming skills, invest in assests/stocks and live
 That's all about me.
 
 MODULE 2 Assignment Solution :
-file:///C:/Web%20Development/HTML%20&%20CSS/index.html
+( https://gauuurav.github.io/coursera-test/module_2_assignment/index.html)
