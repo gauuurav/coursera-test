@@ -7,3 +7,6 @@ That's all about me.
 
 MODULE 2 Assignment Solution :
 ( https://gauuurav.github.io/coursera-test/module_2_assignment/index.html)
+
+MODULE 3 Assignment Solution :
+( https://gauuurav.github.io/coursera-test/module_3_assignment/module_3_sol.html)
