@@ -10,3 +10,6 @@ MODULE 2 Assignment Solution :
 
 MODULE 3 Assignment Solution :
 ( https://gauuurav.github.io/coursera-test/module_3_assignment/module_3_sol.html)
+
+MODULE 4 Assignment Solution :
+( https://gauuurav.github.io/coursera-test/module_4_assignment/module_4_sol.html)
